@@ -1,5 +1,5 @@
-This repository is to show some randons codes about JavaScript Theory.
+This repository shows the initial commands of the JavaScript Language
 
-It's so simple, because i'm started with this codes and show firsts commands of JavaScript.
+Observation: In the repository only some commands are shown, just to give an initial step in the language.
 
 # JavaScript
